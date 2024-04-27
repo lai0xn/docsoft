@@ -1,0 +1,16 @@
+basePath: /
+host: localhost:8080
+info:
+  contact:
+    email: support@swagger.io
+    name: API Support
+    url: http://www.swagger.io/support
+  description: This is a sample server todo server. You can visit the GitHub repository
+    at https://github.com/LordGhostX/swag-gin-demo
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+  title: Go + Gin Todo API
+  version: "1.0"
+paths: {}
+swagger: "2.0"
